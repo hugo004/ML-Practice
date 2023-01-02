@@ -1,4 +1,5 @@
-/resources/*
+/datasets/*
+/**/*/datasets
 /model/*
 /**/*/.DS_Store
 /**/projects/*
