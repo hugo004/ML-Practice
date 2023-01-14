@@ -1,3 +1,3 @@
 # ML Practice
 
-This repo is used to document my ML learning processing
+This repo is used to document my ML/DL learning processing
