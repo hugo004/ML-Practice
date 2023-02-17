@@ -1,9 +1,3 @@
 # ML Practice
 
-This repo is used to document my ML learning processing
-
-# Recommend Resources
-
-## Computer Vision
-
-- https://pyimagesearch.com/category/tutorials/
+This repo is used to record the status of my ML/DL learning.
