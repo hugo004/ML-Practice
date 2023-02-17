@@ -2,6 +2,7 @@
 /**/*/datasets
 /**/*/dataset
 /model/*
+/**/*/models/*
 /**/*/.DS_Store
 *.pyc
 # /**/projects/*
